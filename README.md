@@ -9,7 +9,7 @@ process that leads from an original formulation of a computing problem to execut
 programs. Programming involves activities such as analysis, developing understanding,
 generating algorithms, verification of requirements of algorithms including their correctness
 and resources consumption, and implementation (commonly referred to as coding) of
-algorithms in a target programming language. Source code is written in one or more
+algorithms in a target programming language. Source code is written in C and C++
 programming languages. The purpose of programming is to find a sequence of instructions that
 will automate performing a specific task or solving a given problem.this project includes
 solutions to various problems on Governors and Gyroscopes.
